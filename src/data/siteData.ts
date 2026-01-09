@@ -48,11 +48,11 @@ export const contactInfo = [
 ];
 
 export const navigation = [
-  { name: "Home", href: "/" },
-  { name: "About", href: "/about" },
-  { name: "Classes", href: "/classes" },
-  { name: "Pricing", href: "/pricing" },
-  { name: "Contact", href: "/contact" },
+  { name: "Inicio", href: "/" },
+  { name: "Sobre mí", href: "/about" },
+  { name: "Proyectos", href: "/classes" },
+  { name: "Servicios", href: "/pricing" },
+  { name: "Contacto", href: "/contact" },
 ];
 
 export const features = [
